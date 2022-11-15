@@ -64,10 +64,11 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-<h1 align="center">⭐️ My Github Streak Stats</h1>
+<h1 align="center">🏆 My Github Trophy</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linche0859&theme=darkhub&row=2&column=3" alt="linche0859" /></a> </p>
 
+<h1 align="center">⭐️ My Github Streak Stats</h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linche0859&" alt="linche0859" /></p>
 
 <h1 align="center">⭐️ My Github Stats</h1>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linche0859&show_icons=true&locale=en" alt="linche0859" /></p>
