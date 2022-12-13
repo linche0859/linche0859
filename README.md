@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [React](https://zh-hant.reactjs.org/)
 
-- 📝 I regularly write articles on local Obsidian. If you need to read more, I will share with you.
+- 📝 I regularly write articles on [Obsidian](https://github.com/linche0859/Obsidian-Vault).
 
 - 📫 How to reach me **aa10327tw@gmail.com**
 
